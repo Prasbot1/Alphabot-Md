@@ -23,8 +23,8 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑" //namabot kalian
-global.ownername= "ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑" //nama kalian
+global.botname = "DENZZ BOTZ👑" //namabot kalian
+global.ownername= "DENZZ CUY👑" //nama kalian
 global.myweb ="https://api.Dani.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg" //bebas asal jan hapus
 global.github = "https://github.com/YTDANIBOTZ" //bebas
@@ -38,8 +38,8 @@ global.thumbnail = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // ini lol.jpg
 global.donasi = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑' //sticker wm ubah
-global.author = 'Di Buat Oleh ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑' //sticker wm ganti nama kalian
+global.packname = '© DENZZ cuy👑' //sticker wm ubah
+global.author = 'Di Buat Oleh denzz👑' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
